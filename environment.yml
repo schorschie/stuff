@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.6
   - numpy=1.18
-  - pandas=1.0
-  - matplotlib=3.5
-  - jupyter=1.0
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
