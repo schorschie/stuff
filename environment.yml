@@ -1,0 +1,10 @@
+name: stuff
+channels:
+    - conda-forge
+dependencies:
+  - python=3.6
+  - numpy=1.18
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
