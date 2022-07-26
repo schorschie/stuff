@@ -5,3 +5,6 @@
 *.json
 *.sql
 *.*~
+
+# Folders
+sd_card/

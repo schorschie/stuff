@@ -27,6 +27,20 @@
             "Link": "https://www.youtube.com/watch?v=rC18LyHbQns"
         }
     ],
+    "Button 2": [
+        {
+            "Name": "Große Uhren machen tick tack",
+            "Link": "https://www.youtube.com/watch?v=xQdtm-ymjPE"
+        },
+        {
+            "Name": "Aramsamsam",
+            "Link": "https://www.youtube.com/watch?v=9W36DUhgLQY"
+        },
+        {
+            "Name": "Ich bin ein dicker Tanzbär",
+            "Link": "https://www.youtube.com/watch?v=80XcmTGXfYM"
+        }
+    ],
     "Button 3": [
         {
             "Name": "Nudeltag",
@@ -104,7 +118,7 @@
         },
         {
             "Name": "Meine Hände sind verschwunden",
-            "Link": "https://www.youtube.com/c/kinderlieder"
+            "Link": "https://youtu.be/wtJGAJrvFu8"
         },
         {
             "Name": "Die Hai-Familie",
