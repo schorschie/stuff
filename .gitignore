@@ -1,0 +1,7 @@
+#.gitignore
+
+# Files
+
+*.json
+*.sql
+*.*~
