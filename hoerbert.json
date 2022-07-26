@@ -1,0 +1,114 @@
+{
+    "Button 0": [
+        {
+            "Name": "Baby Shark",
+            "Link": "https://www.youtube.com/watch?v=nwR6cCW4LsM"
+        },
+        {
+            "Name": "The Wheels on the Bus",
+            "Link": "https://www.youtube.com/watch?v=oLnd4G7dsHg"
+        },
+        {
+            "Name": "Daddy Finger, Mommy Finger",
+            "Link": "https://www.youtube.com/watch?v=xU5GLNvvix0"
+        }
+    ],
+    "Button 1": [
+        {
+            "Name": "Grün, grün, grün sind alle meine Kleider",
+            "Link": "https://www.youtube.com/watch?v=7UxEbiI3cFQ"
+        },
+        {
+            "Name": "Ich habe einen kleinen Papagei",
+            "Link": "https://www.youtube.com/watch?v=cR_T1nqhwOs"
+        },
+        {
+            "Name": "Das Krokodil-Lied",
+            "Link": "https://www.youtube.com/watch?v=rC18LyHbQns"
+        }
+    ],
+    "Button 3": [
+        {
+            "Name": "Nudeltag",
+            "Link": "https://www.youtube.com/watch?v=L1QK9G5efyY"
+        },
+        {
+            "Name": "Das ABC Lied",
+            "Link": "https://www.youtube.com/watch?v=LoAHwtk0HKc"
+        },
+        {
+            "Name": "Ein Mann der sich Kolumbus nannt",
+            "Link": "https://www.youtube.com/watch?v=t_fLM3bp6oE"
+        }
+    ],
+    "Button 4": [
+        {
+            "Name": "If you're happy",
+            "Link": "https://www.youtube.com/watch?v=wqvQAcloTRQ"
+        },
+        {
+            "Name": "Old MacDonald",
+            "Link": "https://www.youtube.com/watch?v=FNW-_O9u0iA"
+        },
+        {
+            "Name": "O Du lieber Augustin",
+            "Link": "https://www.youtube.com/watch?v=8PdAwGx7bJE"
+        }
+    ],
+    "Button 5": [
+        {
+            "Name": "Mit dem Rad",
+            "Link": "https://www.youtube.com/watch?v=h09rmThp7pM"
+        },
+        {
+            "Name": "Backe, backe Kuchen",
+            "Link": "https://www.youtube.com/watch?v=ZuSRAWYee4M"
+        },
+        {
+            "Name": "Meine Oma fährt im Hühnerstall Motorrad",
+            "Link": "https://www.youtube.com/watch?v=f6EZDiSbZ9k"
+        }
+    ],
+    "Button 6": [
+        {
+            "Name": "Itze Bitze Spinne",
+            "Link": "https://www.youtube.com/watch?v=QHHlsrxtX48"
+        },
+        {
+            "Name": "Hoppe, hoppe Reiter",
+            "Link": "https://www.youtube.com/watch?v=4ikCcVH_sic"
+        },
+        {
+            "Name": "Hab 'ne Tante aus Marokko",
+            "Link": "https://www.youtube.com/watch?v=TUdqc_sT7z4"
+        }
+    ],
+    "Button 7": [
+        {
+            "Name": "Das Lied über mich",
+            "Link": "https://www.youtube.com/watch?v=qCzLMZuLOWc"
+        },
+        {
+            "Name": "Laurentia, liebe Laurentia mein",
+            "Link": "https://www.youtube.com/watch?v=xUEh2v-t8pk"
+        },
+        {
+            "Name": "Hoppelhase Hans",
+            "Link": "https://www.youtube.com/watch?v=VLgHo4j0n_A"
+        }
+    ],
+    "Button 8": [
+        {
+            "Name": "Der Pavianpopo",
+            "Link": "https://www.youtube.com/watch?v=R5kZK9UqTZc"
+        },
+        {
+            "Name": "Meine Hände sind verschwunden",
+            "Link": "https://www.youtube.com/c/kinderlieder"
+        },
+        {
+            "Name": "Die Hai-Familie",
+            "Link": "https://www.youtube.com/watch?v=hnyjrVuZYbc"
+        }
+    ]
+}
