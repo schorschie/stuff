@@ -2,127 +2,181 @@
     "Button 0": [
         {
             "Name": "Baby Shark",
-            "Link": "https://www.youtube.com/watch?v=nwR6cCW4LsM"
+            "Link": "https://www.youtube.com/watch?v=nwR6cCW4LsM",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "The Wheels on the Bus",
-            "Link": "https://www.youtube.com/watch?v=oLnd4G7dsHg"
+            "Link": "https://www.youtube.com/watch?v=oLnd4G7dsHg",
+            "crop_start": "00:00:08.5",
+            "crop_tail" : "00:02:47"
         },
         {
             "Name": "Daddy Finger, Mommy Finger",
-            "Link": "https://www.youtube.com/watch?v=xU5GLNvvix0"
+            "Link": "https://www.youtube.com/watch?v=xU5GLNvvix0",
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:02:05"
         }
     ],
     "Button 1": [
         {
             "Name": "Grün, grün, grün sind alle meine Kleider",
-            "Link": "https://www.youtube.com/watch?v=7UxEbiI3cFQ"
+            "Link": "https://www.youtube.com/watch?v=7UxEbiI3cFQ",
+            "crop_start": "00:00:13",
+            "crop_tail" : "00:03:00"
         },
         {
             "Name": "Ich habe einen kleinen Papagei",
-            "Link": "https://www.youtube.com/watch?v=cR_T1nqhwOs"
+            "Link": "https://www.youtube.com/watch?v=cR_T1nqhwOs",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Das Krokodil-Lied",
-            "Link": "https://www.youtube.com/watch?v=rC18LyHbQns"
+            "Link": "https://www.youtube.com/watch?v=rC18LyHbQns",
+            "crop_start": "00:00:03",
+            "crop_tail" : "00:03:51"
         }
     ],
     "Button 2": [
         {
             "Name": "Große Uhren machen tick tack",
-            "Link": "https://www.youtube.com/watch?v=xQdtm-ymjPE"
+            "Link": "https://www.youtube.com/watch?v=xQdtm-ymjPE",
+            "crop_start": "00:00:06.5",
+            "crop_tail" : "00:02:47"
         },
         {
             "Name": "Aramsamsam",
-            "Link": "https://www.youtube.com/watch?v=9W36DUhgLQY"
+            "Link": "https://www.youtube.com/watch?v=9W36DUhgLQY",
+            "crop_start": "00:00:12.5",
+            "crop_tail" : "00:03:21"
         },
         {
             "Name": "Ich bin ein dicker Tanzbär",
-            "Link": "https://www.youtube.com/watch?v=80XcmTGXfYM"
+            "Link": "https://www.youtube.com/watch?v=80XcmTGXfYM",
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:03:05"
         }
     ],
     "Button 3": [
         {
             "Name": "Nudeltag",
-            "Link": "https://www.youtube.com/watch?v=L1QK9G5efyY"
+            "Link": "https://www.youtube.com/watch?v=L1QK9G5efyY",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Das ABC Lied",
-            "Link": "https://www.youtube.com/watch?v=LoAHwtk0HKc"
+            "Link": "https://www.youtube.com/watch?v=LoAHwtk0HKc",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Ein Mann der sich Kolumbus nannt",
-            "Link": "https://www.youtube.com/watch?v=t_fLM3bp6oE"
+            "Link": "https://www.youtube.com/watch?v=t_fLM3bp6oE",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 4": [
         {
             "Name": "If you're happy",
-            "Link": "https://www.youtube.com/watch?v=wqvQAcloTRQ"
+            "Link": "https://www.youtube.com/watch?v=wqvQAcloTRQ",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Old MacDonald",
-            "Link": "https://www.youtube.com/watch?v=FNW-_O9u0iA"
+            "Link": "https://www.youtube.com/watch?v=FNW-_O9u0iA",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "O Du lieber Augustin",
-            "Link": "https://www.youtube.com/watch?v=8PdAwGx7bJE"
+            "Link": "https://www.youtube.com/watch?v=8PdAwGx7bJE",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 5": [
         {
             "Name": "Mit dem Rad",
-            "Link": "https://www.youtube.com/watch?v=h09rmThp7pM"
+            "Link": "https://www.youtube.com/watch?v=h09rmThp7pM",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Backe, backe Kuchen",
-            "Link": "https://www.youtube.com/watch?v=ZuSRAWYee4M"
+            "Link": "https://www.youtube.com/watch?v=ZuSRAWYee4M",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Meine Oma fährt im Hühnerstall Motorrad",
-            "Link": "https://www.youtube.com/watch?v=f6EZDiSbZ9k"
+            "Link": "https://www.youtube.com/watch?v=f6EZDiSbZ9k",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 6": [
         {
             "Name": "Itze Bitze Spinne",
-            "Link": "https://www.youtube.com/watch?v=QHHlsrxtX48"
+            "Link": "https://www.youtube.com/watch?v=QHHlsrxtX48",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Hoppe, hoppe Reiter",
-            "Link": "https://www.youtube.com/watch?v=4ikCcVH_sic"
+            "Link": "https://www.youtube.com/watch?v=4ikCcVH_sic",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Hab 'ne Tante aus Marokko",
-            "Link": "https://www.youtube.com/watch?v=TUdqc_sT7z4"
+            "Link": "https://www.youtube.com/watch?v=TUdqc_sT7z4",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 7": [
         {
             "Name": "Das Lied über mich",
-            "Link": "https://www.youtube.com/watch?v=qCzLMZuLOWc"
+            "Link": "https://www.youtube.com/watch?v=qCzLMZuLOWc",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Laurentia, liebe Laurentia mein",
-            "Link": "https://www.youtube.com/watch?v=xUEh2v-t8pk"
+            "Link": "https://www.youtube.com/watch?v=xUEh2v-t8pk",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Hoppelhase Hans",
-            "Link": "https://www.youtube.com/watch?v=VLgHo4j0n_A"
+            "Link": "https://www.youtube.com/watch?v=VLgHo4j0n_A",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 8": [
         {
             "Name": "Der Pavianpopo",
-            "Link": "https://www.youtube.com/watch?v=R5kZK9UqTZc"
+            "Link": "https://www.youtube.com/watch?v=R5kZK9UqTZc",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Meine Hände sind verschwunden",
-            "Link": "https://youtu.be/wtJGAJrvFu8"
+            "Link": "https://youtu.be/wtJGAJrvFu8",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Die Hai-Familie",
-            "Link": "https://www.youtube.com/watch?v=hnyjrVuZYbc"
+            "Link": "https://www.youtube.com/watch?v=hnyjrVuZYbc",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ]
 }
