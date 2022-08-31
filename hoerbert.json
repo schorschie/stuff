@@ -73,7 +73,7 @@
         {
             "Name": "Schnupper Schnupper Schnäuzchen",
             "Link": "https://youtu.be/US1lTMOXW3w",
-            "crop_start": "00:00:05",
+            "crop_start": "00:00:06",
             "crop_tail" : ""
         }
     ],
@@ -99,7 +99,7 @@
         {
             "Name": "Kleine Schnecke",
             "Link": "https://youtu.be/D2ZrUnT5dFA",
-            "crop_start": "00:00:06",
+            "crop_start": "00:00:07",
             "crop_tail" : "00:02:29"
         }
     ],
@@ -152,7 +152,7 @@
             "Name": "Wo ist meine Mama?",
             "Link": "https://www.youtube.com/watch?v=2Pjg7h13z2U",
             "crop_start": "00:00:06",
-            "crop_tail" : "00:02:04"
+            "crop_tail" : "00:02:05"
         }
     ],
     "Button 6": [
@@ -177,8 +177,8 @@
         {
             "Name": "Ich bin ein Kreis, hurra!",
             "Link": "https://www.youtube.com/watch?v=6taM6T7XyTc",
-            "crop_start": "00:00:05",
-            "crop_tail" : "00:02:38"
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:02:38.5"
         }
     ],
     "Button 7": [
@@ -203,7 +203,7 @@
         {
             "Name": "Fünf kleine Fische",
             "Link": "https://www.youtube.com/watch?v=p51c5g1iNzw",
-            "crop_start": "00:00:06",
+            "crop_start": "00:00:06.5",
             "crop_tail" : "00:03:22"
         }
     ],

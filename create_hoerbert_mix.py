@@ -13,7 +13,7 @@ destination.mkdir(exist_ok=True, parents=True)
 
 for idb, button in enumerate(hoerbert):
     for ids, song in enumerate(hoerbert[button]):
-        if idb != 0 or ids != 1:
+        if idb != 7 or ids != 3:
             continue 
         song_name = '%d.%%(ext)s' % (ids)
         song_path = destination / str(idb) / song_name
