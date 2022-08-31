@@ -7,23 +7,29 @@
             "crop_tail" : ""
         },
         {
-            "Name": "The Wheels on the Bus",
-            "Link": "https://www.youtube.com/watch?v=oLnd4G7dsHg",
-            "crop_start": "00:00:08.5",
-            "crop_tail" : "00:02:47"
+            "Name": "Die Räder vom Bus",
+            "Link": "https://www.youtube.com/watch?v=dlCHEwZ4q1o",
+            "crop_start": "",
+            "crop_tail" : ""
         },
         {
             "Name": "Daddy Finger, Mommy Finger",
             "Link": "https://www.youtube.com/watch?v=xU5GLNvvix0",
             "crop_start": "00:00:06",
             "crop_tail" : "00:02:05"
+        },
+        {
+            "Name": "Bum bum bum",
+            "Link": "https://youtu.be/SbEQmORpn-Y",
+            "crop_start": "00:00:07",
+            "crop_tail" : "00:02:25"
         }
     ],
     "Button 1": [
         {
-            "Name": "Grün, grün, grün sind alle meine Kleider",
-            "Link": "https://www.youtube.com/watch?v=7UxEbiI3cFQ",
-            "crop_start": "00:00:13",
+            "Name": "Nudeltag",
+            "Link": "https://www.youtube.com/watch?v=L1QK9G5efyY",
+            "crop_start": "00:00:06",
             "crop_tail" : "00:03:00"
         },
         {
@@ -37,6 +43,12 @@
             "Link": "https://www.youtube.com/watch?v=rC18LyHbQns",
             "crop_start": "00:00:03",
             "crop_tail" : "00:03:51"
+        },
+        {
+            "Name": "One Little Finger",
+            "Link": "https://youtu.be/eBVqcTEC3zQ",
+            "crop_start": "",
+            "crop_tail" : "00:02:10"
         }
     ],
     "Button 2": [
@@ -57,44 +69,62 @@
             "Link": "https://www.youtube.com/watch?v=80XcmTGXfYM",
             "crop_start": "00:00:06",
             "crop_tail" : "00:03:05"
+        },
+        {
+            "Name": "Schnupper Schnupper Schnäuzchen",
+            "Link": "https://youtu.be/US1lTMOXW3w",
+            "crop_start": "00:00:05",
+            "crop_tail" : ""
         }
     ],
     "Button 3": [
         {
-            "Name": "Nudeltag",
-            "Link": "https://www.youtube.com/watch?v=L1QK9G5efyY",
-            "crop_start": "",
-            "crop_tail" : ""
+            "Name": "Grün, grün, grün sind alle meine Kleider",
+            "Link": "https://www.youtube.com/watch?v=7UxEbiI3cFQ",
+            "crop_start": "00:00:13",
+            "crop_tail" : "00:03:00"
         },
         {
             "Name": "Das ABC Lied",
-            "Link": "https://www.youtube.com/watch?v=LoAHwtk0HKc",
-            "crop_start": "",
+            "Link": "https://youtu.be/LoAHwtk0HKc",
+            "crop_start": "00:00:14",
             "crop_tail" : ""
         },
         {
             "Name": "Ein Mann der sich Kolumbus nannt",
-            "Link": "https://www.youtube.com/watch?v=t_fLM3bp6oE",
-            "crop_start": "",
-            "crop_tail" : ""
+            "Link": "https://youtu.be/t_fLM3bp6oE",
+            "crop_start": "00:00:11",
+            "crop_tail" : "00:03:13"
+        },
+        {
+            "Name": "Kleine Schnecke",
+            "Link": "https://youtu.be/D2ZrUnT5dFA",
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:02:29"
         }
     ],
     "Button 4": [
         {
-            "Name": "If you're happy",
-            "Link": "https://www.youtube.com/watch?v=wqvQAcloTRQ",
-            "crop_start": "",
-            "crop_tail" : ""
+            "Name": "Если весело живется",
+            "Link": "https://www.youtube.com/watch?v=MC74j_89D7M",
+            "crop_start": "00:00:03",
+            "crop_tail" : "00:01:15"
         },
         {
             "Name": "Old MacDonald",
-            "Link": "https://www.youtube.com/watch?v=FNW-_O9u0iA",
-            "crop_start": "",
-            "crop_tail" : ""
+            "Link": "https://youtu.be/FNW-_O9u0iA",
+            "crop_start": "00:00:08",
+            "crop_tail" : "00:02:33.5"
         },
         {
             "Name": "O Du lieber Augustin",
             "Link": "https://www.youtube.com/watch?v=8PdAwGx7bJE",
+            "crop_start": "00:00:06.5",
+            "crop_tail" : "00:03:02"
+        },
+        {
+            "Name": "Die Katze tanzt allein",
+            "Link": "https://youtu.be/MVL93i6Aaqg",
             "crop_start": "",
             "crop_tail" : ""
         }
@@ -103,40 +133,52 @@
         {
             "Name": "Mit dem Rad",
             "Link": "https://www.youtube.com/watch?v=h09rmThp7pM",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:09",
+            "crop_tail" : "00:02:48"
         },
         {
             "Name": "Backe, backe Kuchen",
             "Link": "https://www.youtube.com/watch?v=ZuSRAWYee4M",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:05",
+            "crop_tail" : "00:01:45"
         },
         {
             "Name": "Meine Oma fährt im Hühnerstall Motorrad",
             "Link": "https://www.youtube.com/watch?v=f6EZDiSbZ9k",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:07",
+            "crop_tail" : "00:02:26"
+        },
+        {
+            "Name": "Wo ist meine Mama?",
+            "Link": "https://www.youtube.com/watch?v=2Pjg7h13z2U",
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:02:04"
         }
     ],
     "Button 6": [
         {
             "Name": "Itze Bitze Spinne",
             "Link": "https://www.youtube.com/watch?v=QHHlsrxtX48",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:07",
+            "crop_tail" : "00:02:19"
         },
         {
             "Name": "Hoppe, hoppe Reiter",
             "Link": "https://www.youtube.com/watch?v=4ikCcVH_sic",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:06.5",
+            "crop_tail" : "00:02:11"
         },
         {
             "Name": "Hab 'ne Tante aus Marokko",
             "Link": "https://www.youtube.com/watch?v=TUdqc_sT7z4",
             "crop_start": "",
-            "crop_tail" : ""
+            "crop_tail" : "00:03:26"
+        },
+        {
+            "Name": "Ich bin ein Kreis, hurra!",
+            "Link": "https://www.youtube.com/watch?v=6taM6T7XyTc",
+            "crop_start": "00:00:05",
+            "crop_tail" : "00:02:38"
         }
     ],
     "Button 7": [
@@ -149,14 +191,20 @@
         {
             "Name": "Laurentia, liebe Laurentia mein",
             "Link": "https://www.youtube.com/watch?v=xUEh2v-t8pk",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:03:33"
         },
         {
             "Name": "Hoppelhase Hans",
             "Link": "https://www.youtube.com/watch?v=VLgHo4j0n_A",
             "crop_start": "",
             "crop_tail" : ""
+        },
+        {
+            "Name": "Fünf kleine Fische",
+            "Link": "https://www.youtube.com/watch?v=p51c5g1iNzw",
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:03:22"
         }
     ],
     "Button 8": [
@@ -169,12 +217,18 @@
         {
             "Name": "Meine Hände sind verschwunden",
             "Link": "https://youtu.be/wtJGAJrvFu8",
-            "crop_start": "",
-            "crop_tail" : ""
+            "crop_start": "00:00:06",
+            "crop_tail" : "00:02:48"
         },
         {
-            "Name": "Die Hai-Familie",
-            "Link": "https://www.youtube.com/watch?v=hnyjrVuZYbc",
+            "Name": "Акуленок",
+            "Link": "https://www.youtube.com/watch?v=Cz5q05Hl5gs",
+            "crop_start": "00:00:12",
+            "crop_tail" : "00:02:46"
+        },
+        {
+            "Name": "So ein schöner Tag ",
+            "Link": "https://www.youtube.com/watch?v=DDu5n9-ZkRE",
             "crop_start": "",
             "crop_tail" : ""
         }
