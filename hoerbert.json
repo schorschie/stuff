@@ -23,6 +23,12 @@
             "Link": "https://youtu.be/SbEQmORpn-Y",
             "crop_start": "00:00:07",
             "crop_tail" : "00:02:25"
+        },
+        {
+            "Name": "Butterfly",
+            "Link": "https://youtu.be/QzcvRDWgRIE",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 1": [
@@ -49,6 +55,12 @@
             "Link": "https://youtu.be/eBVqcTEC3zQ",
             "crop_start": "",
             "crop_tail" : "00:02:10"
+        },
+        {
+            "Name": "Hacki Backi Monster",
+            "Link": "https://youtu.be/s7ZMy83VSaw",
+            "crop_start": "00:00:03",
+            "crop_tail" : "00:02:12"
         }
     ],
     "Button 2": [
@@ -74,6 +86,12 @@
             "Name": "Schnupper Schnupper Schnäuzchen",
             "Link": "https://youtu.be/US1lTMOXW3w",
             "crop_start": "00:00:06",
+            "crop_tail" : ""
+        },
+        {
+            "Name": "Summ, summ, summ",
+            "Link": "https://youtu.be/KeRM98Bp8Io",
+            "crop_start": "00:00:07",
             "crop_tail" : ""
         }
     ],
@@ -101,6 +119,12 @@
             "Link": "https://youtu.be/D2ZrUnT5dFA",
             "crop_start": "00:00:07",
             "crop_tail" : "00:02:29"
+        },
+        {
+            "Name": "Die Maus auf Weltraumreise",
+            "Link": "https://youtu.be/fHIV_6CBKdU",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 4": [
@@ -127,6 +151,12 @@
             "Link": "https://youtu.be/MVL93i6Aaqg",
             "crop_start": "",
             "crop_tail" : ""
+        },
+        {
+            "Name": "Als ich ein Baby war…",
+            "Link": "https://youtu.be/dN7UEzJmNz0",
+            "crop_start": "00:00:05",
+            "crop_tail" : "00:03:58"
         }
     ],
     "Button 5": [
@@ -153,6 +183,12 @@
             "Link": "https://www.youtube.com/watch?v=2Pjg7h13z2U",
             "crop_start": "00:00:06",
             "crop_tail" : "00:02:05"
+        },
+        {
+            "Name": "Die Biene Maja",
+            "Link": "https://www.youtube.com/watch?v=96tOPyuhuJs",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 6": [
@@ -179,6 +215,12 @@
             "Link": "https://www.youtube.com/watch?v=6taM6T7XyTc",
             "crop_start": "00:00:10",
             "crop_tail" : "00:02:38.5"
+        },
+        {
+            "Name": "Hey Pippi Langstrumpf",
+            "Link": "https://www.youtube.com/watch?v=zebSfFGKQv8",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 7": [
@@ -205,6 +247,12 @@
             "Link": "https://www.youtube.com/watch?v=p51c5g1iNzw",
             "crop_start": "00:00:06.5",
             "crop_tail" : "00:03:22"
+        },
+        {
+            "Name": "Klabautermann (Wellerman)",
+            "Link": "https://www.youtube.com/watch?v=0ahHLFzz6zQ",
+            "crop_start": "",
+            "crop_tail" : "00:02:55"
         }
     ],
     "Button 8": [
