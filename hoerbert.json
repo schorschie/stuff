@@ -185,10 +185,10 @@
             "crop_tail" : "00:02:05"
         },
         {
-            "Name": "Die Biene Maja",
-            "Link": "https://www.youtube.com/watch?v=96tOPyuhuJs",
-            "crop_start": "",
-            "crop_tail" : ""
+            "Name": "Bingo",
+            "Link": "https://www.youtube.com/watch?v=euL6z6-tIBA",
+            "crop_start": "00:00:01.5",
+            "crop_tail" : "00:02:50"
         }
     ],
     "Button 6": [
@@ -217,8 +217,8 @@
             "crop_tail" : "00:02:38.5"
         },
         {
-            "Name": "Hey Pippi Langstrumpf",
-            "Link": "https://www.youtube.com/watch?v=zebSfFGKQv8",
+            "Name": "Shake, shake your body!",
+            "Link": "https://www.youtube.com/watch?v=OO53j1uN2oE",
             "crop_start": "",
             "crop_tail" : ""
         }
@@ -275,10 +275,16 @@
             "crop_tail" : "00:02:46"
         },
         {
-            "Name": "So ein schöner Tag ",
+            "Name": "So ein schöner Tag",
             "Link": "https://www.youtube.com/watch?v=DDu5n9-ZkRE",
             "crop_start": "",
             "crop_tail" : ""
+        },
+        {
+            "Name": "Wasch uns!",
+            "Link": "https://www.youtube.com/watch?v=xO7XRGvRTxc",
+            "crop_start": "00:00:02.5",
+            "crop_tail" : "00:02:29"
         }
     ]
 }
