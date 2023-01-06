@@ -29,6 +29,12 @@
             "Link": "https://youtu.be/QzcvRDWgRIE",
             "crop_start": "",
             "crop_tail" : ""
+        },
+        {
+            "Name": "Biene Maja (Karel Gott)",
+            "Link": "https://youtu.be/XNWferBsNCw",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 1": [
@@ -61,6 +67,12 @@
             "Link": "https://youtu.be/s7ZMy83VSaw",
             "crop_start": "00:00:03",
             "crop_tail" : "00:02:12"
+        },
+        {
+            "Name": "Die Biene Maja (Helene Fischer)",
+            "Link": "https://youtu.be/xj_lS8U4pKA",
+            "crop_start": "",
+            "crop_tail" : ""
         }
     ],
     "Button 2": [
